@@ -1,3 +1,5 @@
+<img width="1200" height="230" alt="banner pbw" src="https://github.com/user-attachments/assets/ecfa1707-34e3-4d01-9b13-0175cd38bd7f" />
+
 # 🎬 LAREND - Portfolio Website
 
 Portfolio website pribadi untuk **Larend**, seorang AMV (Anime Music Video) Maker dengan fokus pada editing style jugg, flow, dan aesthetic.
